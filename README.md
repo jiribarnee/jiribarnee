@@ -1,8 +1,8 @@
 # ¡Hola! Soy Joaquín Iribarne
 
- **Desarrollador Web Full Stack en formación**
+ **Desarrollador Web Full Stack**
  
- Estudiante de Licenciatura en Informática.
+ **Estudiante de Licenciatura en Informática.**
  
 ---
 
