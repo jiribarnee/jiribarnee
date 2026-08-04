@@ -1,12 +1,11 @@
-# 👋 ¡Hola! Soy Joaquín Iribarne
+# ¡Hola! Soy Joaquín Iribarne
 
-💻 **Desarrollador Web Full Stack en formación**
-🎓 Estudiante de Licenciatura en Informática.
-🚀 Apasionado por el desarrollo web, la programación y el aprendizaje continuo.
-
+ **Desarrollador Web Full Stack en formación**
+ Estudiante de Licenciatura en Informática.
+ 
 ---
 
-## 🛠️ Tecnologías que utilizo
+##  Tecnologías que uso
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode" />
@@ -14,7 +13,7 @@
 
 ---
 
-## 📚 Lenguajes
+## Lenguajes
 
 <p align="center">
 
@@ -27,7 +26,7 @@
 
 ---
 
-## 📈 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <p align="center">
 
@@ -49,10 +48,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas&color=0e75b6&style=for-the-badge" />
-</p>
-
-<h3 align="center">
-🚀 Siempre aprendiendo, siempre construyendo.
-</h3>
